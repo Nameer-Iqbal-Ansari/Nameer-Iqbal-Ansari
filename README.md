@@ -18,7 +18,7 @@ I'm an undergradute Computer Systems engineer [@UIT](https://www.uit.edu/) from 
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on RISC-V, Graphics designing, An open source project and giving home/online Tuitions.
+- 👨🏽‍💻 I’m currently working on RISC-V, Graphics designing, An open source project and also giving home/online Tuitions.
 - 🌱 I’m currently learning new things like NFTS, Metaverse etc.
 - 💬 2022 Goals: Contribute more to Open Source projects.
 - ⚡️ Fun-Fact: other than above I write for myself, Watch Cricket, Plays football and watch thriller movies.
