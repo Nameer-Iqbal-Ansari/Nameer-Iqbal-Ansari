@@ -1,13 +1,13 @@
-### Hey 👋🏽, I'm [Shahzaib!]
+### Hey 👋🏽, I'm NAMEER IQBAL ANSARI aka N.i.AnXari.
 
-<a href="https://https://twitter.com/shahzaib2028">
-  <img align="left" alt="Muhammad Shahzaib | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/Niansari7">
+  <img align="left" alt="Nameer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/mohammad-shahzaib-8325b3178/">
-  <img align="left" alt="Shahzaib's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/nameer-ansari-136944209/">
+  <img align="left" alt="Nameer's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/mohammad_shahzaib2028/">
-  <img align="left" alt="Shahzaib's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/n.i.ansari/">
+  <img align="left" alt="Nameer's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br />
@@ -15,7 +15,7 @@
 
 Hi, I'm Nameer iqbal ansari, An undergradute Computer Systems engineer [@UIT](https://www.uit.edu/) from Pakistan, currently I am a Struggling Freelancer👨🏽‍💻 [@Fiverr](https://www.fiverr.com/nameeransari?up_rollout=true), Internee 👨🏽‍💼[@MERL-UIT](https://github.com/merledu).
 
- <img width="40%" src="https://images.app.goo.gl/M2GENQ2kbG1zWehv9" align="right" />
+ <img width="40%" src="file:///C:/Users/Nameer%20Iqbal%20Ansari/OneDrive/Desktop/image_processing20210908-11991-7bi2p8.gif" align="right" />
   
 **Talking about Personal Stuffs:**
 
