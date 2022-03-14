@@ -1,13 +1,13 @@
 # Hey 👋🏽, I'm NAMEER IQBAL ANSARI aka N.i.AnXari.
 
 <a href="https://twitter.com/Niansari7">
-  <img align="center" alt="Nameer's Twitter" width="22px" height="22px" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/twitter.png" />
+  <img align="center" alt="Nameer's Twitter" width="30px" height="30px" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/nameer-ansari-136944209/">
-  <img align="left" alt="Nameer's LinkdeIN" width="22px" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/li.png" />
+  <img align="center" alt="Nameer's linkedin" width="30px" height="30px" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/li.png" />
 </a>
 <a href="https://www.instagram.com/n.i.ansari/">
-  <img align="left" alt="Nameer's Instagram" width="22px" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/insta.jpg" />
+  <img align="center" alt="Nameer's instagram" width="30px" height="30px" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/insta.jpg" />
 </a>
 <br />
 <br />
