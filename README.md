@@ -1,5 +1,4 @@
-### Hey 👋🏽, I'm NAMEER IQBAL ANSARI aka N.i.AnXari.
-
+# Hey 👋🏽, I'm NAMEER IQBAL ANSARI aka N.i.AnXari.
 <a href="https://twitter.com/Niansari7">
   <img align="left" alt="Nameer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
