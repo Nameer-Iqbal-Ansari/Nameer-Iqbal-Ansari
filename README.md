@@ -18,11 +18,11 @@ I'm Nameer iqbal ansari, An undergradute Computer Systems engineer [@UIT](https:
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on RISC-V, Graphics designing, An open source project and giving school Tuitions.;
-- 🌱 I’m currently learning new things like NFTS, Metaverse etc.;
-- 💬 2022 Goals: Contribute more to Open Source projects.;
-- ⚡️ Fun-Fact: other than above I write for myself, Watch Cricket, Plays football and watch thriller movies.;
-- 📫 How to reach me: n.i.ansari200@gmail.com.;
+- 👨🏽‍💻 I’m currently working on RISC-V, Graphics designing, An open source project and giving home/online Tuitions.
+- 🌱 I’m currently learning new things like NFTS, Metaverse etc.
+- 💬 2022 Goals: Contribute more to Open Source projects.
+- ⚡️ Fun-Fact: other than above I write for myself, Watch Cricket, Plays football and watch thriller movies.
+- 📫 How to reach me: n.i.ansari200@gmail.com.
 - 📝[Resume](https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/nameer's%20resume.pdf)
 
 **Languages and Tools:**  
