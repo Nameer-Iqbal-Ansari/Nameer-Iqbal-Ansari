@@ -28,20 +28,21 @@ Hi, I'm Nameer iqbal ansari, An undergradute Computer Systems engineer [@UIT](ht
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://images.app.goo.gl/bpk3c45y9Rz3MmrQ7"></code>
-<code><img height="20" src="https://images.app.goo.gl/w6xdNw1MtVtJpUK89"></code>
-<code><img height="20" src="https://images.app.goo.gl/NhgkHBFjMvFrtzTv8"></code>
+<code><img height="20" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/c%2B%2B.png"></code>
+<code><img height="20" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/multisim.jpg"></code>
+<code><img height="20" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/ps.jpg"></code>
 ![RISC-V](https://img.shields.io/badge/RISCV-011E41?style=flat-square&logo=RISCV&logoColor=white)
-<code><img height="20" src="https://images.app.goo.gl/wiqfMMh8RaQ8kw1L7"></code>
-<code><img height="20" src="https://images.app.goo.gl/b3RMAAnwBvqHn8oo7"></code>
-<code><img height="20" src="https://images.app.goo.gl/9awBqNQecrhDfRBG8"></code>
+<code><img height="20" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/si.png"></code>
+<code><img height="20" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/systemv.jpg"></code>
+<code><img height="20" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/vs.jpg"></code>
+<code><img height="20" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/xilinx.png"></code>
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzaib2028&count_private=true&show_icons=true&theme=radical&&include_all_commits=true" width=60% />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nameer-Iqbal-Ansari&count_public=true&&count_private=true&show_icons=true&theme=radical&&include_all_commits=true" width=60% />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib2028&count_private=true&theme=radical" width="40%">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaib2028&theme=radical"  width=60% />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameer-Iqbal-Ansari&count_private=true&theme=radical" width="40%">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nameer-Iqbal-Ansari&theme=radical"  width=60% />
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahzaib2028&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nameer-Iqbal-Ansari&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
