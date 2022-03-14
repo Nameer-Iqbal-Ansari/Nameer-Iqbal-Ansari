@@ -40,7 +40,7 @@ I'm Nameer iqbal ansari, An undergradute Computer Systems engineer [@UIT](https:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nameer-Iqbal-Ansari&count_public=true&&count_private=true&show_icons=true&theme=radical&&include_all_commits=true" width=60% />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameer-Iqbal-Ansari&count_private=true&theme=radical" width="60%">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameer-Iqbal-Ansari&count_private=true&theme=radical" width="40%">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nameer-Iqbal-Ansari&theme=radical"  width=60% />
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nameer-Iqbal-Ansari&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
