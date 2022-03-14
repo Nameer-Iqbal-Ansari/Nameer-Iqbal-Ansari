@@ -1,6 +1,8 @@
 ### Hi there 👋, This is NAMEER IQBAL ANSARI aka N.i.anXari.
 #### Hungry to learn.
-Hi, I'm Nameer iqbal ansari, An undergradute Computer Systems engineer https://www.uit.edu/ from Pakistan, currently I am a Struggling Freelancer 👨🏽‍💻 https://www.fiverr.com/nameeransari?up_rollout=true, Internee 👨🏽‍💼https://github.com/merledu.
+### Hi there 👋, This is NAMEER IQBAL ANSARI aka N.i.anXari.
+#### Hungry to learn.
+Hi, I'm Nameer iqbal ansari, An undergradute Computer Systems engineer @https://www.uit.edu/ from Pakistan, currently I am a Struggling Freelancer 👨🏽‍💻 @https://www.fiverr.com/nameeransari?up_rollout=true, Internee 👨🏽‍💼@https://github.com/merledu.
 
 Talking about Personal Stuffs:
 
@@ -11,3 +13,8 @@ Talking about Personal Stuffs:
 📫 How to reach me: n.i.ansari200@gmail.com.
 
 Skills: Vs code / Verilog , SystemVerilog / C++ / illustrator , photoshop / Xilinx vivado
+
+
+Skills: Vs code / Verilog , SystemVerilog / C++ / illustrator , photoshop / Xilinx vivado
+
+- 🔭 I’m currently working on this page. 
