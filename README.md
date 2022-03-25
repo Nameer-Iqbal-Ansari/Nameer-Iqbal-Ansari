@@ -12,7 +12,7 @@
 <br />
 <br />
 
-I'm an undergradute Computer Systems engineer [@UIT](https://www.uit.edu/) from Pakistan, currently I am a Struggling Freelancer👨🏽‍💻 [@Fiverr](https://www.fiverr.com/nameeransari?up_rollout=true),Research Internee 👨🏽‍💼[@MERL-UIT](https://github.com/merledu).
+I'm an undergradute Computer Systems engineer [@UIT](https://www.uit.edu/) from Pakistan, currently I am a Struggling Freelancer👨🏽‍💻 [@Fiverr](https://www.fiverr.com/nameeransari?up_rollout=true), Research Internee 👨🏽‍💼[@MERL-UIT](https://github.com/merledu).
 
  <img width="40%" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/image_processing20210908-11991-7bi2p8.gif" align="right" />
   
