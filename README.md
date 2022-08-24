@@ -18,9 +18,9 @@ I'm an undergradute Computer Systems engineer [@UIT](https://www.uit.edu/), Work
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working in RISC-V technology and contributing in Open source.
-- 💬 2022 Goals: Contribute more to Open Source projects and explore this waste field or microprocessors.
-- ⚡️ Fun-Fact: other than above I write for myself, Watch Cricket, Plays football and watch thriller movies.
+- 👨🏽‍💻 Currently working in RISC-V technology and contributing in Open source.
+- 💬 2022 Goals: Contribute more to Open Source projects and explore this vast field or microprocessors.
+- ⚡️ Fun-Fact: Other than above I write for myself, Watch Cricket, Plays football and watch thriller movies.
 - 📫 How to reach me: n.i.ansari200@gmail.com.
 - 📝[Resume](https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/nameer's%20resume.pdf)
 
@@ -41,5 +41,4 @@ I'm an undergradute Computer Systems engineer [@UIT](https://www.uit.edu/), Work
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameer-Iqbal-Ansari&count_private=true&theme=radical" width="40%">
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Nameer-Iqbal-Ansari&theme=radical"  width=60% />
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nameer-Iqbal-Ansari&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nameer-Iqbal-Ansari&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
