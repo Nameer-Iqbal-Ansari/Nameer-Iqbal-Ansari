@@ -12,14 +12,14 @@
 <br />
 <br />
 
-I'm an undergradute Computer Systems engineer [@UIT](https://www.uit.edu/) from Pakistan, currently I am a Research Internee at 👨🏽‍💼[@MERL-UIT](https://github.com/merledu).
+I'm an undergradute Computer Systems engineer [@UIT](https://www.uit.edu/), Workinng as a Research Internee at 👨🏽‍💼[@MERL-UIT](https://github.com/merledu).
 
  <img width="40%" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/image_processing20210908-11991-7bi2p8.gif" align="right" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working in RISC-V technology, Graphics designing, Open source projects and also giving home/online Tuitions.
-- 💬 2022 Goals: Contribute more to Open Source projects.
+- 👨🏽‍💻 I’m currently working in RISC-V technology and contributing in Open source.
+- 💬 2022 Goals: Contribute more to Open Source projects and explore this waste field or microprocessors.
 - ⚡️ Fun-Fact: other than above I write for myself, Watch Cricket, Plays football and watch thriller movies.
 - 📫 How to reach me: n.i.ansari200@gmail.com.
 - 📝[Resume](https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/nameer's%20resume.pdf)
