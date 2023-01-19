@@ -12,8 +12,10 @@
 <br />
 <br />
 
-I'm an undergradute Computer Systems engineer [@UIT](https://www.uit.edu/), Workinng as a Research Internee at 👨🏽‍💼[@MERL-UIT](https://github.com/merledu).
-
+Nameer is an undergradute Computer Systems engineer from [@UIT](https://www.uit.edu/) and [GSoC'22](https://summerofcode.withgoogle.com/myprojects/details/lkRwPJpN) contributor. Workinng:
+- As a Research Internee at 👨🏽‍💼[@MERL-UIT](https://github.com/merledu).
+- As Intern/trainee at [Xcelerium](https://xcelerium.com/).
+- On Multicore RISCV processors.
  <img width="40%" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/image_processing20210908-11991-7bi2p8.gif" align="right" />
   
 **Talking about Personal Stuffs:**
@@ -37,8 +39,5 @@ I'm an undergradute Computer Systems engineer [@UIT](https://www.uit.edu/), Work
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Nameer-Iqbal-Ansari&count_public=true&&count_private=true&show_icons=true&theme=radical&&include_all_commits=true" width=60% />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameer-Iqbal-Ansari&count_private=true&theme=radical" width="40%">
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Nameer-Iqbal-Ansari&theme=radical"  width=60% />
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nameer-Iqbal-Ansari&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
