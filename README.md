@@ -14,8 +14,7 @@
 
 Nameer is an undergradute Computer Systems engineer from [@UIT](https://www.uit.edu/) and [GSoC'22](https://summerofcode.withgoogle.com/myprojects/details/lkRwPJpN) contributor. Workinng:
 - As a Research Internee at 👨🏽‍💼[@MERL-UIT](https://github.com/merledu).
-- As Intern/trainee at [Xcelerium](https://xcelerium.com/).
-- On Multicore RISCV processors.
+- On Multicore/Singlecore RISCV processors.
  <img width="40%" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/image_processing20210908-11991-7bi2p8.gif" align="right" />
   
 **Talking about Personal Stuffs:**
