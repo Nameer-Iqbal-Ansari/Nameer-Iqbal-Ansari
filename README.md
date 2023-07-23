@@ -23,7 +23,7 @@ Nameer is an undergradute Computer Systems engineer from [@UIT](https://www.uit.
 - 💬 2023 Goals: Contribute more to Open Source projects and explore this vast field of microprocessors.
 - ⚡️ Fun-Fact: Other than above I write for myself, Watch Cricket, Plays football and watch thriller movies.
 - 📫 How to reach me: n.i.ansari200@gmail.com.
-- 📝[Resume](Resume-Nameer-Iqbal-Ansari.pdf)
+- 📝[Resume](nameer.pdf)
 
 **Languages and Tools:**  
 
