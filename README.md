@@ -12,7 +12,7 @@
 <br />
 <br />
 
-Nameer is a Computer Systems Engineer from [@UIT](https://www.uit.edu/), [GSoC'22](https://summerofcode.withgoogle.com/myprojects/details/lkRwPJpN) contributor and  [GSoC'23]([https://summerofcode.withgoogle.com/myprojects/details/lkRwPJpN](https://summerofcode.withgoogle.com/organizations/micro-electronics-research-lab-uitu/projects/details/3TI8MLxs)) co-mentor. Working:
+Nameer is a Computer Systems Engineer from [@UIT](https://www.uit.edu/), [GSoC'22](https://summerofcode.withgoogle.com/myprojects/details/lkRwPJpN) contributor, and [GSoC'23](https://summerofcode.withgoogle.com/organizations/micro-electronics-research-lab-uitu/projects/details/3TI8MLxs) co-mentor. Working:
 - As a Research Internee at 👨🏽‍💼[@MERL-UIT](https://github.com/merledu).
 - On Multicore/Singlecore RISCV processors.
  <img width="40%" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/image_processing20210908-11991-7bi2p8.gif" align="right" />
