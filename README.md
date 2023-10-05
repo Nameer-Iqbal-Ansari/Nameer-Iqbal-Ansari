@@ -13,7 +13,7 @@
 <br />
 
 Nameer is a Computer Systems Engineer from [@UIT](https://www.uit.edu/), [GSoC'22](https://summerofcode.withgoogle.com/myprojects/details/lkRwPJpN) contributor, and [GSoC'23](https://summerofcode.withgoogle.com/organizations/micro-electronics-research-lab-uitu/projects/details/3TI8MLxs) co-mentor. Working:
-- As a Research Internee at 👨🏽‍💼[@MERL-UIT](https://github.com/merledu).
+- As a Research Assistant at 👨🏽‍💼[@MERL-UIT](https://github.com/merledu).
 - On Multicore/Singlecore RISCV processors.
  <img width="40%" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/image_processing20210908-11991-7bi2p8.gif" align="right" />
   
@@ -21,7 +21,7 @@ Nameer is a Computer Systems Engineer from [@UIT](https://www.uit.edu/), [GSoC'2
 
 - 👨🏽‍💻 Currently working in RISC-V technology and contributing to Open source.
 - 💬 2023 Goals: Contribute more to Open Source projects and explore this vast field of microprocessors.
-- ⚡️ Fun-Fact: Other than above I write for myself, Watch Cricket, Plays football and watch thriller movies.
+- ⚡️ Fun-Fact: Other than above I write for myself, Watch Cricket, play football and watch thriller movies.
 - 📫 How to reach me: n.i.ansari200@gmail.com.
 - 📝[Resume](nameer.pdf)
 
