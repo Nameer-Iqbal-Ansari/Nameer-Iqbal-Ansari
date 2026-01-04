@@ -1,4 +1,4 @@
-# Hey 👋🏽, This is NAMEER IQBAL ANSARI aka N.i.AnXari.
+# Hey 👋🏽, This is NAMEER IQBAL ANSARI.
 
 <a href="https://twitter.com/Niansari7">
   <img align="center" alt="Nameer's Twitter" width="30px" height="30px" src="https://github.com/Nameer-Iqbal-Ansari/Nameer-Iqbal-Ansari/blob/main/twitter.png" />
@@ -20,7 +20,7 @@ Nameer is a Computer Systems Engineer from [@UIT](https://www.uit.edu/), [GSoC'2
 **Talking about Personal Stuff:**
 
 - 👨🏽‍💻 Currently working in RISC-V technology and contributing to Open source.
-- 💬 2025 Goals: Contribute more to Open Source projects and explore this vast field of microprocessors.
+- 💬 2026 Goals: Contribute more to Open Source projects and explore this vast field of microprocessors.
 - 📫 How to reach me: n.i.ansari200@gmail.com.
 - 📝[Resume](nameer.pdf)
 
