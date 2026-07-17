@@ -21,8 +21,8 @@ Nameer is a Computer Systems Engineer from [@UIT](https://www.uit.edu/), [GSoC'2
 
 - 👨🏽‍💻 Currently working in RISC-V technology and contributing to Open source.
 - 💬 2026 Goals: Contribute more to Open Source projects and explore this vast field of microprocessors.
-- 📫 How to reach me: n.i.ansari200@gmail.com.
-- 📝[Resume](Nameer_CV.pdf)
+- 📫 How to reach me: nameeriqbalansari@gmail.com.
+- 📝[Resume](Nameer_Iqbal_Ansari_CV.pdf)
 
 **Languages and Tools:**  
 
